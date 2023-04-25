@@ -29,3 +29,9 @@ The project started with planning and research to understand the user requiremen
 The task listing page displays all the tasks, including their title, description, status, and priority. Users can add, edit, delete, and mark tasks as complete or incomplete. The task detail page includes a detailed description of the task, along with an option to edit or delete the task.
 
 The web application is designed to be responsive, ensuring that it can adapt to different screen sizes and devices. Best practices were followed throughout the development process, including the use of semantic HTML, proper code commenting, and testing for cross-browser compatibility and mobile responsiveness. Finally, the web application was deployed using GitHub Pages, making it accessible to the public.
+
+### Desktop Image:
+![image](https://user-images.githubusercontent.com/66858598/234385094-ad1e958f-6665-4b04-a149-dd5c7fe32348.png)
+### Mobile Image:
+![image](https://user-images.githubusercontent.com/66858598/234385156-d86ddfff-990f-430d-a75f-451e4a418cd6.png)
+
